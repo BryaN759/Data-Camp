@@ -1,1 +1,2 @@
 # Data-Camp
+Course solutions
